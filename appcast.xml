@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Odo Updates</title>
+        <link>https://github.com/bymayo/odo-releases</link>
+        <description>Most recent updates to Odo</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Tue, 24 Nov 2026 11:03:03 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.0</h2><ul><li>First release of <strong>Odo</strong>: your yearly goals in the menu bar, from your Strava activities.</li><li>New look: odo&#x27;s lime, black and grey and the Switzer typeface throughout the app and its icon</li><li>Goal cards with pace, how you compare with this time last year, and what it takes each week to get back on pace. One goal shows in full and the rest fold to a single line; click one to open it.</li><li>This week card with a streak of weeks hitting your weekly pace.</li><li>Year comparison graph with a podium for your best years, hover to scrub, click to lock.</li><li>Smart goals that suggest targets from your recent years. Each goal has its own ✨ button, so picking one only changes that goal.</li><li>Filter by activity type and tags like Commute and Race.</li><li>An <strong>All</strong> tab that adds up every sport, with its own goals and a this-week card showing each sport against its own weekly pace. Each sport&#x27;s filters still apply, and it can be shown in the menu bar.</li><li>Syncing shows which year it&#x27;s fetching and how many activities so far. If Strava&#x27;s API limit is reached, Odo says when and carries on by itself once it resets.</li><li>The window fits its content, and never runs off the bottom of a smaller screen.</li><li>A new icon: a running track with your lap drawn round it, in the menu bar and the app.</li><li>Opening Odo from the menu bar starts fresh: Goals, on the sport the menu bar is set to, with filters closed and graphs unlocked.</li><li>When you&#x27;re behind, each goal shows what you need each week to get on pace in one clear line; hover it for the detail.</li><li>A <strong>Fitness</strong> tab for every sport and All: fitness, fatigue and form from the last six weeks back to your first activity, so you can see where training built you up and where it dropped off. Load comes from heart rate where your activities have it (set your max and resting heart rate in Settings), otherwise from Strava&#x27;s Relative Effort or time. Odo re-syncs your history once to pick up heart rate.</li><li>Kudos: a well done notification when a new activity syncs, with its distance, time and climbing, how far it takes your goal, and a bigger cheer for the one that reaches it.</li><li>Notifications: a summary at the start of each week, month and year comparing it with the one before, a midweek reminder when you&#x27;ve fallen behind pace, and a note when you&#x27;re back on it. They follow the menu bar&#x27;s sport and metric, and each can be turned off in Settings.</li><li>When the catch-up needed is more than you&#x27;ve been doing, goals also show a doable target, worked out from how you&#x27;re going this year.</li><li>Each goal&#x27;s bar now shows where you&#x27;ll finish at this rate (a fainter green) and the doable target (a gold tick), with a key under the numbers.</li><li>Switching tabs and sports is quick, even with thousands of activities.</li><li>Updates install automatically.</li></ul>]]></description>
+            <enclosure
+                url="https://github.com/bymayo/odo-releases/releases/download/v1.0.0/Odo-1.0.0.dmg"
+                sparkle:edSignature="dJkWSYeohbuRMfvBwrIFoJ530exPMx6l4A40Uh4DGzD6wE8Mi959jmd23ycJBIpxOC/a7JNTCNqumVcBkugDBA=="
+                length="3242097"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
