@@ -6,16 +6,16 @@
         <description>Most recent updates to Odo</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.2</title>
-            <pubDate>Tue, 24 Nov 2026 18:36:44 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>Version 1.0.3</title>
+            <pubDate>Wed, 25 Nov 2026 10:09:33 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.2</h2><ul><li>A step-by-step guide to connecting Strava when you first open Odo, with a link to Strava&#x27;s API settings and a button that copies the callback domain</li></ul>]]></description>
+            <description><![CDATA[<style>body{font:13px -apple-system,system-ui;margin:0;padding:0;color:#111}h2{font-size:15px;margin:0 0 8px}h3{font-size:13px;margin:12px 0 4px}ul{margin:0;padding-left:18px}li{margin-bottom:6px}code{font:11px ui-monospace,SFMono-Regular,Menlo;background:rgba(127,127,127,.15);padding:1px 4px;border-radius:3px}@media (prefers-color-scheme:dark){body{color:#eee}}</style><h2>Version 1.0.3</h2><ul><li>The ODO name in the popover and Settings now matches the logo on odo.bymayo.co.uk</li><li>A shorter behind-pace reminder: how far behind you are, and one weekly figure to aim for</li><li>If Strava turns Odo away because its API now needs a Strava subscription, Odo says so and links to Strava&#x27;s subscribe page instead of showing &quot;Forbidden&quot;. The setup guide mentions it up front</li></ul>]]></description>
             <enclosure
-                url="https://github.com/bymayo/odo-releases/releases/download/v1.0.2/Odo-1.0.2.dmg"
-                sparkle:edSignature="AxVRlKVqDLnCwhrPUoV61CdIfZf6iUw+NtdlkOVx3qsYhgt8eJesHQH6uHVNskUz0MGEX+SkgximJzsf+0CGCg=="
-                length="3412920"
+                url="https://github.com/bymayo/odo-releases/releases/download/v1.0.3/Odo-1.0.3.dmg"
+                sparkle:edSignature="p2FGaiVjV26H/vJ+AT0DDqNw/wxRlRXTaRyc3yjnb8V7gf0bRg/N7RATG4S7sD7HzK4DImxK9KjPGRtXbzeRCg=="
+                length="3480095"
                 type="application/octet-stream" />
         </item>
     </channel>
